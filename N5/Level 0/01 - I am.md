@@ -1,13 +1,13 @@
-# I am **your name**
+# I am *your name*
 *Unless you've changed it...*
 
 Things you've already hopefully done:
 1. Studied Hiragana
 2. Studied Katakana
-3. Have watched an anime (*Optional* - though it depends on who you ask)
+3. Have watched an anime (Optional - *though it depends on who you ask*)
 
 ## Vocabulary:
-は - topic marking particle. When you see this, then that's the thing being talked about.
+は - topic marking particle. When you see this, then that's the thing/person/etc. being talked about.
 学生 ー（がくせい）- student
 先生 ー（せんせい）- teacher
 日本語 ー（にほんご）- Japanese
