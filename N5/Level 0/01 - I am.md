@@ -1,4 +1,4 @@
-# I am *your name*
+# I am **your name**
 *Unless you've changed it...*
 
 Things you've already hopefully done:
