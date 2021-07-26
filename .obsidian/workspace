@@ -7,8 +7,11 @@
         "id": "96748c6e69e172f3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,6 +100,7 @@
   },
   "active": "96748c6e69e172f3",
   "lastOpenFiles": [
+    "README.md",
     "N5/Level 0.md",
     "Base.md",
     "Untitled.md"
