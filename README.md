@@ -9,5 +9,6 @@ Things you won't find here:
 2. Katakana
 3. Mercy
 4. Japanese without Kanji
+5. Useless knowledge from books
 
 I'll make a "How to use" guide here as well.
