@@ -9,6 +9,6 @@ Things you won't find here:
 2. Katakana
 3. Mercy
 4. Japanese without Kanji
-5. Useless knowledge from books (While this guide follows books like Genki (元気) and Minna no Nihongo みんなの日本語, it may and will have a lot of sections skipped - the ones I don't consider useful at the moment.)
+5. Useless knowledge from books (While this guide follows books like Genki (元気) and Minna no Nihongo (みんなの日本語), it may and will have a lot of sections skipped - the ones I don't consider useful at the moment.)
 
 I'll make a "How to use" guide here as well.
